@@ -23,7 +23,8 @@ This project consists of a web application that allows users to set alerts for c
 ## Getting Started
 
 ### Prerequisites
-<img src="https://github.com/user-attachments/assets/7f9ea0c9-64b2-4822-b5b2-4cfada0f49aa" alt="Prerequisites" width="200">
+![image](https://github.com/user-attachments/assets/9adc0a03-00c1-4638-9870-1210fb1a41b7)
+
 
 - Docker
 - Docker Compose
