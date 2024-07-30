@@ -170,14 +170,3 @@ crypto-alert-app/
 
 If you would like to contribute, please open a pull request or issue on GitHub.
 
-### License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-### Contact
-
-For questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to customize this README file further based on your project's specific needs and details.
