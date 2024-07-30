@@ -1,5 +1,3 @@
-Sure, here's the detailed README file with appropriately sized images:
-
 ---
 
 # Crypto Alert App
