@@ -32,7 +32,7 @@ This project consists of a web application that allows users to set alerts for c
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/crypto-alert-app.git
+   git clone https://github.com/paritosh921/crypto-alert-app.git
    cd crypto-alert-app
    ```
 
