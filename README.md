@@ -1,4 +1,4 @@
-Here's a detailed README file for your project:
+Sure, here's the detailed README file with appropriately sized images:
 
 ---
 
@@ -9,21 +9,21 @@ This project consists of a web application that allows users to set alerts for c
 ## Features
 
 - **Streamlit App:** A user interface to set alerts for cryptocurrency prices and view price charts.
-  ![image](https://github.com/user-attachments/assets/fc8162a0-5cf6-4d18-a79f-d39b45f23119)
+  <img src="https://github.com/user-attachments/assets/fc8162a0-5cf6-4d18-a79f-d39b45f23119" alt="Streamlit App" width="400">
 
 - **Flask API:** A RESTful API to manage alerts and fetch cryptocurrency prices.
-  ![image](https://github.com/user-attachments/assets/b7c46933-3dde-4025-9cee-d12999e2f086)
+  <img src="https://github.com/user-attachments/assets/b7c46933-3dde-4025-9cee-d12999e2f086" alt="Flask API" width="400">
 
 - **CoinGecko Integration:** Fetch real-time cryptocurrency prices.
-  ![image](https://github.com/user-attachments/assets/139a298a-6900-4795-bce0-dbcbe3988fd7)
+  <img src="https://github.com/user-attachments/assets/139a298a-6900-4795-bce0-dbcbe3988fd7" alt="CoinGecko Integration" width="400">
 
 - **Redis:** Store and manage alert data.
-![image](https://github.com/user-attachments/assets/10e13ba6-192a-46ef-b292-08f308d8af29)
+  <img src="https://github.com/user-attachments/assets/10e13ba6-192a-46ef-b292-08f308d8af29" alt="Redis" width="400">
 
 ## Getting Started
 
 ### Prerequisites
-![image](https://github.com/user-attachments/assets/7f9ea0c9-64b2-4822-b5b2-4cfada0f49aa)
+<img src="https://github.com/user-attachments/assets/7f9ea0c9-64b2-4822-b5b2-4cfada0f49aa" alt="Prerequisites" width="200">
 
 - Docker
 - Docker Compose
